@@ -10,5 +10,5 @@ export default defineConfig({
     babel({ presets: [reactCompilerPreset()] }),
     tailwindcss(),
   ],
-  base: "/stvndai/lichess-player-search/",
+  base: "/lichess-player-search/",
 });
